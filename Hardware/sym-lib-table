@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ESP-V-rescue)(type Legacy)(uri ${KIPRJMOD}/ESP-V-rescue.lib)(options "")(descr ""))
+)
